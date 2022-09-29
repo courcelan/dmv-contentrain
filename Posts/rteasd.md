@@ -1,6 +1,7 @@
 ---
 ID: "b461ae5d-3ea0-4768-8774-72b52f23bab8"
-categories: []
+categories:
+  - "humdinger winger"
 tags: []
 slug: "rteasd"
 description: "asdasda"
